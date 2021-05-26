@@ -1,0 +1,3 @@
+﻿  ValidationBus.cpp
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 8-11\Laborator 8-10 - PolimorfismService && UserInterface && User && Exception && Validation\Laborator8\ValidationBus.cpp(19,27): warning C4312: 'type cast': conversion from 'int' to 'ValidationBus *' of greater size
+  Laborator8.vcxproj -> C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 8-11\Laborator 8-10 - PolimorfismService && UserInterface && User && Exception && Validation\x64\Debug\Laborator8.exe

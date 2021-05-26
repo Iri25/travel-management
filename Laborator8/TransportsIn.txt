@@ -1,0 +1,2 @@
+Avion 1847 Suceava Paris 11.11.2020 300 287 1
+Autobuz 1143 Cluj-Napoca Barcelona 11.11.2020 50 49 4

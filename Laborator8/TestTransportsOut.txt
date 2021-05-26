@@ -1,0 +1,3 @@
+Avion 2343 Suceava Cluj 11.11.2020 40 36 1
+Autobuz 1143 Suceava Cluj 11.11.2020 40 36 1
+Avion 4682 Cluj Paris 01.08.2020 260 200 1

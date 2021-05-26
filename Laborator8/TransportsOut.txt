@@ -1,0 +1,4 @@
+Autobuz 1143 Cluj-Napoca Barcelona 11.11.2020 50 49 4
+Avion 1847 ddd dd 11.11.2020 330 223 1
+Autobuz 544 1dd 1ed 15.12.2020 2 1 23
+Avion 19387 dd dsdd 11.11.2020 122 100 1

@@ -1,0 +1,5 @@
+Avion 156 ClujNapoca Dubai", "14.06.2020", 100, 80, 0);
+	Bus* c2 = new Bus("873", "Constanta", "Brasov", "15.07.2020", 40, 20, 1);
+	Bus* c3 = new Bus("118", "Viena", "Bucuresti", "14.06.2020", 80, 50, 3);
+	AirPlane* c4 = new AirPlane("112", "Bucuresti", "ClujNapoca", "14.06.2020", 100, 80, 0);
+	AirPlane* c5 = new AirPlane("112", "ClujNapoca", "Bucuresti", "14.06.2020", 100, 80, 0);
