@@ -3,6 +3,8 @@ C++ application with a 4-layered architecture: data access layer (Domain), persi
 
 Key concepts are encapsulation, inheritance, polymorphism, validations, exceptions, reading from files and storing in files.
 
+## Requirements
+
 Application for travel management. A travel agency organizes trips and they need an application to manage their transportation problem. The means of transport available are the plane and the bus. A plane trip is characterized by travel code, departure city, destination city, departure date, property to stop or not, total number of seats and number of reserved seats. A bus trip is characterized by travel code, departure city, destination city, departure date, number of days of travel duration, total number of seats and number of reserved seats.
 
 The application must allow the following functionalities:
