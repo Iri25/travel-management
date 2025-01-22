@@ -1,7 +1,14 @@
 # travel-management
 C++ application with a 4-layered architecture: data access layer (Domain), persistence layer (Repository), business layer (Service) and presentation layer (UserInterface). The data are saved in txt or csv files (input and output). Several tests for functionality and data validation have been created. The main class is Applications. Interaction with the user is done from the console.
 
-Key concepts are encapsulation, inheritance, polymorphism, validations, exceptions, reading from files and storing in files.
+## Key concepts:
+- encapsulation
+- inheritance
+- polymorphism
+- validations
+- exceptions
+- reading from files
+- storing in files
 
 ## Requirements
 
@@ -14,7 +21,7 @@ The application must allow the following functionalities:
 • Book a certain number of seats for a trip with a given code. A user cannot book more seats than available for that trip. After the change, the application displays the updated travel list. If a certain trip no longer has any space available, then it will be displayed with special fonts.
 3. Logout
 
-Specifications:
+## Specifications:
 1. Input data is stored in files. On application startup, entities are read from files. Changes made during the application run are saved in these files.
 2. When starting the application, the user can choose the type of file/files according to which the data is viewed (TXT or CSV). Depending on this type chosen by the user, the data is saved in file(s). Polymorphic structures were used.
 3. Exceptions were used to signal possible errors.
