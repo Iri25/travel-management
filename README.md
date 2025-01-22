@@ -1,5 +1,5 @@
 # travel-management
-C++ application with a 4-layered architecture: data access layer (Domain), persistence layer (Repository), business layer (Service) and presentation layer (UserInterface). The data are saved in txt or csv files (input and output). Several tests for functionality and data validation have been created. The main class is Applications. Interaction with the user is done from the console.
+C++ application with a 4-layered architecture: data access layer (`Domain`), persistence layer (`Repository`), business layer (`Service`) and presentation layer (`UserInterface`). The data are saved in txt or csv files (input and output). Several tests for functionality and data validation have been created. The main class is Applications. Interaction with the user is done from the console.
 
 ## Key concepts:
 - encapsulation
